@@ -1,2 +1,4 @@
-hello git! 3rd fixed!:
-hello git!
+hello git! 3rd 
+1st fixed!
+new feature
+2nd fixed
