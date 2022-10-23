@@ -1,24 +1,3 @@
-hello git! 3rd fixed!:
-hello git!
-hello git! 3rd
-hello git! 3rd
-hello git! 3rd
-hello git! 3rd
-hello git! 3rd
-hello git! 3rd
-hello git! 3rd
-hello git! 
-hello git! nd
-hello git! nd
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git! 
+hello git! 3rd 
+1st fixed!
+new feature
